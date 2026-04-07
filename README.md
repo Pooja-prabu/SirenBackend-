@@ -113,16 +113,6 @@ Scalable agent-based architecture
 
 Hackathon-ready MVP design
 
-### 🎯 Why This Matters
-
-Improves user trust during payment failures
-
-Reduces customer support workload
-
-Ensures consistent and accurate responses
-
-Easily extendable to other payment gateways
-
 ### 🏁 Future Enhancements
 
 Webhook-based real-time updates
